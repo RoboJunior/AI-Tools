@@ -1,0 +1,10 @@
+numpy==1.23.5
+openai==0.27.8
+opencv_python==4.7.0.72
+opencv_python_headless==4.7.0.72
+pandas==1.5.3
+pandasai==0.6.7
+plotly==5.14.1
+pyxlsb==1.0.10
+streamlit==1.24.0
+streamlit_chat==0.1.1

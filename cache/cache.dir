@@ -1,0 +1,6 @@
+'what is the highest value of fixed acidity?', (0, 86)
+'what is the highest value of citric acid?', (512, 87)
+'what is the highest value in chloried?', (1024, 36)
+'what is the highest value in density?', (1536, 68)
+'plot a distribution plot', (2048, 64)
+'what is minimum value for chlorides?', (2560, 73)

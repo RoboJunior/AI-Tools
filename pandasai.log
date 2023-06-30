@@ -1,0 +1,216 @@
+2023-06-30 06:16:07 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 06:16:33 [INFO] Question: what is the highest value of fixed acidity?
+2023-06-30 06:16:33 [INFO] Running PandasAI with openai LLM...
+2023-06-30 06:16:33 [INFO] Prompt ID: 9e4b23ed-760e-46cb-ad73-b9def4f2159b
+2023-06-30 06:16:35 [INFO] 
+                        Code generated:
+                        ```
+                        highest_fixed_acidity = df['fixed_acidity'].max()
+highest_fixed_acidity
+                        ```
+                    
+2023-06-30 06:16:35 [INFO] 
+Code running:
+```
+highest_fixed_acidity = df['fixed_acidity'].max()
+highest_fixed_acidity
+```
+2023-06-30 06:16:35 [INFO] Answer: 15.9
+2023-06-30 06:16:37 [INFO] Conversational answer: The highest value of fixed acidity in the dataset is 15.9.
+2023-06-30 06:16:37 [INFO] Executed in: 4.145688533782959s
+2023-06-30 06:18:46 [INFO] Question: what is the highest value of citric acid?
+2023-06-30 06:18:46 [INFO] Running PandasAI with openai LLM...
+2023-06-30 06:18:46 [INFO] Prompt ID: 4ac55189-b4f4-4fa4-a9cf-1dcd9403cb1a
+2023-06-30 06:18:49 [INFO] 
+                        Code generated:
+                        ```
+                        highest_citric_acid = df['citric_acid'].max()
+print(highest_citric_acid)
+                        ```
+                    
+2023-06-30 06:18:49 [INFO] 
+Code running:
+```
+highest_citric_acid = df['citric_acid'].max()
+print(highest_citric_acid)
+```
+2023-06-30 06:18:49 [INFO] Answer: 1.66
+2023-06-30 06:18:50 [INFO] Conversational answer: The highest value of citric acid is 1.66.
+2023-06-30 06:18:50 [INFO] Executed in: 4.266726970672607s
+2023-06-30 06:19:04 [INFO] Question: what is the highest value of citric acid?
+2023-06-30 06:19:04 [INFO] Running PandasAI with openai LLM...
+2023-06-30 06:19:04 [INFO] Prompt ID: 76bf525a-d3a4-4fc6-ae81-98114bb85661
+2023-06-30 06:19:04 [INFO] Using cached response
+2023-06-30 06:19:04 [INFO] 
+Code running:
+```
+highest_citric_acid = df['citric_acid'].max()
+print(highest_citric_acid)
+```
+2023-06-30 06:19:04 [INFO] Answer: 1.66
+2023-06-30 06:19:06 [INFO] Conversational answer: The highest value of citric acid is 1.66.
+2023-06-30 06:19:06 [INFO] Executed in: 1.5258681774139404s
+2023-06-30 06:19:40 [INFO] Question: what is the highest value of citric acid?
+2023-06-30 06:19:40 [INFO] Running PandasAI with openai LLM...
+2023-06-30 06:19:40 [INFO] Prompt ID: 680938a7-cd4a-4c59-9cb4-b85cdb386d1e
+2023-06-30 06:19:40 [INFO] Using cached response
+2023-06-30 06:19:40 [INFO] 
+Code running:
+```
+highest_citric_acid = df['citric_acid'].max()
+print(highest_citric_acid)
+```
+2023-06-30 06:19:40 [INFO] Answer: 1.66
+2023-06-30 06:19:42 [INFO] Conversational answer: The highest value of citric acid is 1.66.
+2023-06-30 06:19:42 [INFO] Executed in: 1.2695059776306152s
+2023-06-30 06:20:14 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 06:20:20 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 06:21:50 [INFO] Question: what is the highest value in chloried?
+2023-06-30 06:21:50 [INFO] Running PandasAI with openai LLM...
+2023-06-30 06:21:50 [INFO] Prompt ID: 2715ed5c-2ad8-4ef6-934d-77c56b3c1fed
+2023-06-30 06:21:51 [INFO] 
+                        Code generated:
+                        ```
+                        df['chlorides'].max()
+                        ```
+                    
+2023-06-30 06:21:51 [INFO] 
+Code running:
+```
+df['chlorides'].max()
+```
+2023-06-30 06:21:51 [INFO] Answer: 0.611
+2023-06-30 06:21:53 [INFO] Conversational answer: The highest value in chloried is 0.611.
+2023-06-30 06:21:53 [INFO] Executed in: 3.5073282718658447s
+2023-06-30 06:22:18 [INFO] Question: what is the highest value in chloried?
+2023-06-30 06:22:18 [INFO] Running PandasAI with openai LLM...
+2023-06-30 06:22:18 [INFO] Prompt ID: 3fb25b00-6c80-4dad-9a2c-326995180cb5
+2023-06-30 06:22:18 [INFO] Using cached response
+2023-06-30 06:22:18 [INFO] 
+Code running:
+```
+df['chlorides'].max()
+```
+2023-06-30 06:22:18 [INFO] Answer: 0.611
+2023-06-30 06:22:21 [INFO] Conversational answer: The highest value in chloried is 0.611.
+2023-06-30 06:22:21 [INFO] Executed in: 2.6248128414154053s
+2023-06-30 06:22:33 [INFO] Question: what is the highest value in density?
+2023-06-30 06:22:33 [INFO] Running PandasAI with openai LLM...
+2023-06-30 06:22:33 [INFO] Prompt ID: ac18a7a5-4489-461a-b4aa-2da9f56cf60b
+2023-06-30 06:22:34 [INFO] 
+                        Code generated:
+                        ```
+                        highest_density = df['density'].max()
+highest_density
+                        ```
+                    
+2023-06-30 06:22:34 [INFO] 
+Code running:
+```
+highest_density = df['density'].max()
+highest_density
+```
+2023-06-30 06:22:34 [INFO] Answer: 1.03898
+2023-06-30 06:22:36 [INFO] Conversational answer: The highest value in density is 1.03898.
+2023-06-30 06:22:36 [INFO] Executed in: 2.8173158168792725s
+2023-06-30 06:22:40 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 06:23:30 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 06:31:35 [WARNING] WARNING! api_token is not default parameter.
+                    api_token was transfered to model_kwargs.
+                    Please confirm that api_token is what you intended.
+2023-06-30 06:32:52 [WARNING] WARNING! api_token is not default parameter.
+                    api_token was transfered to model_kwargs.
+                    Please confirm that api_token is what you intended.
+2023-06-30 06:32:54 [WARNING] WARNING! api_token is not default parameter.
+                    api_token was transfered to model_kwargs.
+                    Please confirm that api_token is what you intended.
+2023-06-30 06:35:48 [INFO] Question: plot a distribution plot
+2023-06-30 06:35:48 [INFO] Running PandasAI with openai LLM...
+2023-06-30 06:35:48 [INFO] Prompt ID: bcd0b2d4-da7f-4c61-98f6-a9d4c3ead8be
+2023-06-30 06:35:50 [INFO] 
+                        Code generated:
+                        ```
+                        import seaborn as sns
+
+sns.displot(df['quality'])
+                        ```
+                    
+2023-06-30 06:35:50 [INFO] 
+Code running:
+```
+sns.displot(df['quality'])
+```
+2023-06-30 06:35:51 [INFO] Answer: <seaborn.axisgrid.FacetGrid object at 0x000001165E644510>
+2023-06-30 06:35:52 [INFO] Conversational answer: Sure! Here is a distribution plot for you.
+2023-06-30 06:35:52 [INFO] Executed in: 4.556201934814453s
+2023-06-30 06:40:52 [INFO] Question: plot a distribution plot
+2023-06-30 06:40:52 [INFO] Running PandasAI with openai LLM...
+2023-06-30 06:40:52 [INFO] Prompt ID: cff8b883-643e-4eb7-8a47-24d5b0cc8734
+2023-06-30 06:40:52 [INFO] Using cached response
+2023-06-30 06:40:52 [INFO] 
+Code running:
+```
+sns.displot(df['quality'])
+```
+2023-06-30 06:40:52 [INFO] Answer: <seaborn.axisgrid.FacetGrid object at 0x000001165E698090>
+2023-06-30 06:40:54 [INFO] Conversational answer: Sure! Here is a distribution plot for you.
+2023-06-30 06:40:54 [INFO] Executed in: 2.323770761489868s
+2023-06-30 06:48:27 [INFO] Question: what is minimum value for chlorides?
+2023-06-30 06:48:27 [INFO] Running PandasAI with openai LLM...
+2023-06-30 06:48:27 [INFO] Prompt ID: 489be605-77bb-4f85-ba4c-506dc2ab2448
+2023-06-30 06:48:28 [INFO] 
+                        Code generated:
+                        ```
+                        min_chlorides = df['chlorides'].min()
+print(min_chlorides)
+                        ```
+                    
+2023-06-30 06:48:28 [INFO] 
+Code running:
+```
+min_chlorides = df['chlorides'].min()
+print(min_chlorides)
+```
+2023-06-30 06:48:28 [INFO] Answer: 0.009
+2023-06-30 06:48:29 [INFO] Conversational answer: The minimum value for chlorides is 0.009.
+2023-06-30 06:48:29 [INFO] Executed in: 2.2127652168273926s
+2023-06-30 06:48:52 [INFO] Question: plot a distribution plot
+2023-06-30 06:48:52 [INFO] Running PandasAI with openai LLM...
+2023-06-30 06:48:52 [INFO] Prompt ID: 5c2f136d-d0ef-420e-b7c9-7d5cfc7e28e4
+2023-06-30 06:48:52 [INFO] Using cached response
+2023-06-30 06:48:52 [INFO] 
+Code running:
+```
+sns.displot(df['quality'])
+```
+2023-06-30 06:48:53 [INFO] Answer: <seaborn.axisgrid.FacetGrid object at 0x0000023859FBAE90>
+2023-06-30 06:48:53 [INFO] Conversational answer: Sure! Here is a distribution plot for you.
+2023-06-30 06:48:53 [INFO] Executed in: 1.5563676357269287s
+2023-06-30 06:49:45 [INFO] Question: plot a distribution plot
+2023-06-30 06:49:45 [INFO] Running PandasAI with openai LLM...
+2023-06-30 06:49:45 [INFO] Prompt ID: 79597f4b-0b47-451d-a044-9771d517ab45
+2023-06-30 06:49:45 [INFO] Using cached response
+2023-06-30 06:49:45 [INFO] 
+Code running:
+```
+sns.displot(df['quality'])
+```
+2023-06-30 06:49:45 [INFO] Answer: <seaborn.axisgrid.FacetGrid object at 0x000002385A13A5D0>
+2023-06-30 06:49:49 [INFO] Conversational answer: Sure! Here is a distribution plot for you.
+2023-06-30 06:49:49 [INFO] Executed in: 3.5233588218688965s
+2023-06-30 13:38:20 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 13:39:06 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 14:15:45 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 14:17:18 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 14:17:25 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 14:19:11 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 14:19:16 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 14:20:41 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 14:20:41 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 14:21:11 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 14:21:12 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 14:23:48 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 14:31:23 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 14:46:36 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 15:00:38 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 15:57:51 [INFO] error_code=None error_message="'' is not one of ['256x256', '512x512', '1024x1024'] - 'size'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
